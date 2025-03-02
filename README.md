@@ -9,7 +9,7 @@
 - [matrix_1](./C++/matrix)
 - [matrix_2](./C++/matrix_pt2)
 - [calculator](./C++/calculator)
-- [deque](./C++/deque)
+- [deque_1](./C++/deque)
 - [deque_2](./C++/deque_pt2)
 - [list](./C++/list)
 - [smart_pointers](./C++/smart_pointers)
